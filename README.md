@@ -1,2 +1,3 @@
-# chrom-url-rewriter
+# Chrome URL rewriter
+
 A Chrome extension that rewrites URLs.
