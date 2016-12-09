@@ -1,6 +1,6 @@
 # WebExtension URL rewriter
 
-A WebExtension that rewrites URLs.
+A WebExtension that rewrites URLs on the DOM according to a .json data file.
 
 Works on Chrome, Firefox and Opera.
 
