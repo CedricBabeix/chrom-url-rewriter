@@ -1,5 +1,5 @@
 var data = {};
-var dataFile = "http://localhost/webextension-url-rewriter/extension/data.json";
+var dataFile = "http://localhost/webextension-dom-url-rewriter/extension/data.json";
 var lastDataCheck = 0;
 var timeStep = 60 * 60 * 1000; // Time in milliseconds
 
