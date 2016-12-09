@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "Chrome URL rewriter",
+  "description": "A Chrome extension that rewrites URLs.",
+  "version": "1.0",
+  "author": "Cédric Babeix",
+
+  "options_page": "",
+
+  "permissions": [
+    "tabs", "webNavigation"
+  ],
+
+  "background": {
+    "scripts": ["background.js"]
+  }
+
+}
